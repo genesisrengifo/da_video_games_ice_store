@@ -5,13 +5,11 @@ Este proyecto analiza los factores que influyen en el éxito comercial de los vi
 
 
 ### 🧰 Tecnologías usadas
-
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-blueviolet?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Tests-darkgreen?logo=scipy&logoColor=white)
 
 ---
 
